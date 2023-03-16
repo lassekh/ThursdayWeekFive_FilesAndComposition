@@ -42,8 +42,4 @@ Main *-- Building
 Building *-- Room
 
 
-
-object Room1
-Room1 : numberOfDoors = 1
-
 @enduml
